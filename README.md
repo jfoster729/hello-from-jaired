@@ -4,11 +4,8 @@
 `TODO://` App should show Hello from Jaired in the beginning and allow you to change the color of the words and background. App should also allow you to change the words to what you want it to say and change it back to normal when you tap the background.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+https://imgur.com/a/OmP6dTl
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
